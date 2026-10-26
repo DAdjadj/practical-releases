@@ -10,9 +10,7 @@ This repository only holds the downloads. Get the latest version from
 
 1. Download `Practical.zip` from the latest release and unzip it.
 2. Move **Practical** to your Applications folder and open it.
-3. The first time, macOS may say it can't verify the app. Open System Settings > Privacy & Security,
-   scroll down and click **Open Anyway**. This is needed once.
-4. Allow access to Calendar, Reminders and Contacts when asked.
+3. Allow access to Calendar, Reminders and Contacts when asked.
 
 Requires macOS 14 or later, on Apple Silicon or Intel. Practical updates itself: it checks once a day,
 or choose Check for Updates from the gear menu.
