@@ -3,6 +3,8 @@
 A small macOS menu bar app that shows your next calendar event or reminder, with a month
 calendar, quick add and search one click (or ⌥⌘N) away.
 
+€40 once, VAT included, with a 14-day free trial that doesn't ask for a card: https://david-alves.com/practical
+
 This repository only holds the downloads. Get the latest version from
 [Releases](https://github.com/DAdjadj/practical-releases/releases/latest).
 
