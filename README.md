@@ -1,7 +1,8 @@
 # Practical
 
 A small macOS menu bar app that shows your next calendar event or reminder, with a month
-calendar, quick add and search one click (or ⌥⌘N) away.
+calendar, quick add and search one click (or ⌥⌘N) away. Share a screenshot of a ticket, an
+invite or a poster and the event fills itself in.
 
 €40 once, VAT included, with a 14-day free trial that doesn't ask for a card: https://david-alves.com/practical
 
@@ -20,6 +21,6 @@ or choose Check for Updates from the gear menu.
 ## Privacy
 
 Everything stays on your Mac. Practical reads your calendars, reminders and contacts through macOS
-and never sends them anywhere: no accounts, no analytics, no servers. The only network request it
-makes is the update check, which asks GitHub for the latest version number and contains nothing
-about you.
+and never sends them anywhere: no accounts, no analytics. Screenshots you hand it are read on your Mac too. It only goes online
+for the update check, the trial and license check, and Apple Maps when you search for a place.
+The [privacy policy](https://david-alves.com/practical/privacy/) lists exactly what each one sends.
